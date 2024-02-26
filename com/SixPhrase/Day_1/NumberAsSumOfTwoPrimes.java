@@ -1,2 +1,4 @@
-package com.SixPhrase.Day_1;public class NumberAsSumOfTwoPrimes {
+package com.SixPhrase.Day_1;
+
+public class NumberAsSumOfTwoPrimes {
 }
